@@ -1,4 +1,5 @@
 # Racoon_Same_Pygame
+처음으로 만들어 본 Python 게임
 
 ***
 
